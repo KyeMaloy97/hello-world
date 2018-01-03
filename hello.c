@@ -7,5 +7,5 @@ int main(){
   //Hey
 //hey2
 
-  return 0;
+  return 1;
 }
